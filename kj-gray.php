@@ -5,7 +5,7 @@ Plugin Name:  Kaijeaw Black And White
 Plugin URI:   https://chonable.com
 Description:  Change theme to black and white
 Version:      01-oct-2017
-Author:       Chonable
+Author:       Mai Chanchaemsri
 Author URI:   https://chonable.com
 License:      WTFPL
 License URI:  http://www.wtfpl.net/
