@@ -26,8 +26,11 @@ h1,h2,h3,h4,h5,h6{
     span.badge.number {
         background: #000;
     }
-    
-    .icon-circle, .list-inline, .daily-logo, .footer-logo {
+    .post-category-icon,
+    .icon-circle, 
+    .list-inline, 
+    .daily-logo, 
+    .footer-logo {
         -moz-filter: grayscale(100%);
         -webkit-filter: grayscale(100%);
         filter: gray; /* IE6-9 */
