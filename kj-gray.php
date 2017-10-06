@@ -7,8 +7,8 @@ Description:  Change theme to black and white
 Version:      01-oct-2017
 Author:       Mai Chanchaemsri
 Author URI:   https://chonable.com
-License:      WTFPL
-License URI:  http://www.wtfpl.net/
+License:      GPLv3
+License URI:  https://www.gnu.org/licenses/quick-guide-gplv3.html
 Text Domain:  kaijeaw-black-n-white
 Domain Path:  /languages
 */
